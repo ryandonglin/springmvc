@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eslog:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="eslog.war">
+      <element id="artifact" artifact-name="eslog:war exploded" />
+    </root>
+  </artifact>
+</component>
