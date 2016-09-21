@@ -1,8 +1,14 @@
 . {  text-decoration: none; }
 
 body {
-    width: 1080px;
-    height: 200px;
+    width: 1290px;
     margin: auto;
+}
+
+.odd {
     background: #ceffd7;
+}
+
+.even {
+    background: #ffffff;
 }
